@@ -30,7 +30,7 @@ about-author: Student at the School of Computer Science, University of Science a
 
 
 # Contact links
-email: taozhao@jiade.com # Add your Email address
+email: chris_spare@163.com # Add your Email address
 phone: 110-110-110
 website: https://chris-zt.github.io/ # Add your website
 linkedin: secret # Add your Linkedin handle
@@ -43,11 +43,11 @@ stackoverflow: stackoverflow # Add your stackoverflow account
 #mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
 
 # Tracker
-analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
+analytics: G-C7KE74SXBZ # Google Analytics tag ID
+fbadmin: 100078050533183 # Facebook ID admin
 
 # Paginate
-paginate: 12
+paginate: 12 # number of items to show in the main page
 paginate_path: 'page:num'
 words_per_minute: 200
 
